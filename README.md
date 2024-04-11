@@ -26,3 +26,4 @@ Stack.h and Stack.cpp: Implement a stack data structure for converting the integ
 
 Queue.h and Queue.cpp: Implement a queue data structure for converting the fractional part to binary.
 
+![Screenshot 2024-04-11 131902](https://github.com/Itzmesuccess/CSDP-project-2/assets/164071129/6f687f0f-aa43-4396-9bf8-074c483a2168)
